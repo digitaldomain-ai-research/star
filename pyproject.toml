@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "star"
+version = "0.1.0"
+description = "A Sparse Trained Articulated Human Body Regressor"
+authors = ["JingYu Ning <115336923+jrunkening@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
