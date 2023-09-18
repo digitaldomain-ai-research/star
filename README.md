@@ -12,7 +12,7 @@ This package is build on top of pytorch.
 
 See [pytorch/get-started](https://pytorch.org/get-started) for the installation guide.
 
-### 2. Install Radon Operator
+### 2. Install STAR
 
 This project is managed via `poetry` and can be easily installed via `pip`:
 
